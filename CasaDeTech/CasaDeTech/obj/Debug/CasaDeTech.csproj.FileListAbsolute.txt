@@ -1,0 +1,92 @@
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\ApplicationInsights.config
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\csc.exe
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\vbc.exe
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\CasaDeTech.dll.config
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\CasaDeTech.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\CasaDeTech.pdb
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Web.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Helpers.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Mvc.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Razor.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Razor.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Web.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Razor.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Razor.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Helpers.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\bin\System.Web.Mvc.xml
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.dll
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.pdb
+C:\Users\Agent 05\Desktop\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.csprojResolveAssemblyReference.cache
+D:\CasaDeTech\CasaDeTech\bin\ApplicationInsights.config
+D:\CasaDeTech\CasaDeTech\bin\roslyn\csc.exe
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CasaDeTech\CasaDeTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CasaDeTech\CasaDeTech\bin\roslyn\System.Collections.Immutable.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\CasaDeTech\CasaDeTech\bin\roslyn\vbc.exe
+D:\CasaDeTech\CasaDeTech\bin\roslyn\VBCSCompiler.exe
+D:\CasaDeTech\CasaDeTech\bin\roslyn\VBCSCompiler.exe.config
+D:\CasaDeTech\CasaDeTech\bin\CasaDeTech.dll.config
+D:\CasaDeTech\CasaDeTech\bin\CasaDeTech.dll
+D:\CasaDeTech\CasaDeTech\bin\CasaDeTech.pdb
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.DependencyCollector.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Web.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.WindowsServer.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.ApplicationInsights.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.Web.Infrastructure.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Helpers.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Mvc.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Razor.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Deployment.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.dll
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Razor.dll
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.DependencyCollector.xml
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.Web.xml
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.AI.WindowsServer.xml
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.ApplicationInsights.xml
+D:\CasaDeTech\CasaDeTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Razor.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Deployment.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Webpages.Razor.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Helpers.xml
+D:\CasaDeTech\CasaDeTech\bin\System.Web.Mvc.xml
+D:\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.csprojResolveAssemblyReference.cache
+D:\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.dll
+D:\CasaDeTech\CasaDeTech\obj\Debug\CasaDeTech.pdb
